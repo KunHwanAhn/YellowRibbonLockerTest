@@ -1,0 +1,7 @@
+bin/
+build/
+libs/
+gen/
+ant.properties
+local.properties
+proguard-project.txt
